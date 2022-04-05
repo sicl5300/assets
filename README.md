@@ -1,2 +1,2 @@
 # assets
-Jsdelivr白嫖图床#1
+Jsdelivr白嫖CDN#1
